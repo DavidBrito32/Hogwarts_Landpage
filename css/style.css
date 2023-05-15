@@ -96,6 +96,7 @@ main {
     width: 100%;
     height: calc(100vh - 200);
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     background: linear-gradient(90deg, #816e03, #034503);
